@@ -87,6 +87,7 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-/logger.js
-reference/
+logger.js
+person.js
+/reference
 
